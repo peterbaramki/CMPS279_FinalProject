@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1029277007090",
+    "project_id": "cmps279-project-v2",
+    "storage_bucket": "cmps279-project-v2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029277007090:android:91dd894e43fe830d01246b",
+        "android_client_info": {
+          "package_name": "com.example.cmps279_project_v2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFqgg0zEY2tJD3fJupQZ62dtICkrfoia0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
